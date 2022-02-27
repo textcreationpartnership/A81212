@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorable dayes and workes of God, in the yeare past. 1645. Or A catalogue of the cities, castles, townes, and forts, that have beene taken by the Parliaments forces since Ianuary last.</title>
+            <author>Caryl, Joseph, 1602-1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81212</idno>
+            <idno type="STC">Wing C780A</idno>
+            <idno type="STC">Thomason E314_6</idno>
+            <idno type="STC">ESTC R200488</idno>
+            <idno type="EEBO-CITATION">99861220</idno>
+            <idno type="PROQUEST">99861220</idno>
+            <idno type="VID">158941</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158941)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 51:E314[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Memorable dayes and workes of God, in the yeare past. 1645. Or A catalogue of the cities, castles, townes, and forts, that have beene taken by the Parliaments forces since Ianuary last.</title>
+                  <author>Caryl, Joseph, 1602-1673.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Bartlett.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Joseph Caryl by Wing.</note>
+                  <note>Annotation on Thomason copy: "Jan: 1st 1645"; the second 6 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Chronology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158941:1" rendition="simple:additions"/>
+            <p> 
+               <hi>MEMORABLE</hi> DAYES AND WORKES OF GOD, <hi>In the Yeare Paſt.</hi> 1645.</p>
+            <p>
+               <hi>OR</hi> A Catalogue of the Cities, Caſtles, Townes, and Forts, that have beene taken by the Parlia<g ref="char:EOLhyphen"/>ments Forces ſince Ianuary Laſt.</p>
+            <p>
+               <hi>LONDON</hi> Printed for. <hi>J. Bartlett.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:158941:2"/>
+            <head>Memorable <hi>Dayes</hi> and <hi>Workes</hi> of <hi>God</hi> in the <hi>Yeare</hi> paſt 1645.</head>
+            <div n="January" type="month">
+               <head>Ianuary</head>
+               <p>the 10<hi rend="sup">th</hi> 
+                  <hi>
+                     <seg rend="decorInit">A</seg>Rch-Biſhop Land</hi> be headed that Arch-Traytor to Church and State: the Arch-enemy of Godly Miniſters, and Godly people: and Arch-incendiary of the three Kingdomes, ſince whoſe Execution (whatever the Ca<g ref="char:EOLhyphen"/>binet Papers Prognoſticated) it hath plea<g ref="char:EOLhyphen"/>ſed God wonderfully to proſper our Armies.</p>
+               <p>
+                  <hi>Ianuary</hi> the 11<hi rend="sup">th</hi>
+               </p>
+               <p>Victory at <hi>Culham,</hi> neare <hi>Abingdon,</hi> againſt Prince <hi>Rupert,</hi> S. <hi>Henry Gage</hi> ſlaine (the then Governour of <hi>Oxford)</hi> and many others of note. A good Checke to their new Generall.</p>
+               <p>Uictory over <hi>Gerard</hi> in Pembrooke-ſhire: 900 ſlaine and taken, beaten againe, at the end of this moneth.</p>
+               <p>
+                  <hi>Ianuary the</hi> 21<hi rend="sup">th</hi>
+               </p>
+               <p>Sir <hi>THOMAS FAIRFAX</hi> Voted our cheife Comman<g ref="char:EOLhyphen"/>der: In the Cabinet Papers reptoached as a <hi>Brutiſh Generall,</hi>
+                  <pb facs="tcp:158941:2"/> but raiſed and aſſiſted of God to bring downe the wiſe, and mighty things: A terror to the enemy, and Object of envy to our owne, who are carnall.</p>
+               <p>
+                  <hi>Strenſham-Houſe</hi> taken, and made our Garriſon.</p>
+            </div>
+            <div n="February" type="month">
+               <head>February </head>
+               <p>the 22<hi rend="sup">th</hi> 
+                  <hi>Partſhall-Houſe</hi> taken: two <hi>Ieſuites:</hi> Gentlemen.</p>
+               <p>
+                  <hi>Shrowsbury</hi> Surprized: eight Knights taken, many Offi<g ref="char:EOLhyphen"/>cers, 15 Ordnances, 2000 Armes. A Beautifull Towne, and of great conſequence, to hinder the enemies Recruits out of <hi>Wales</hi> and otherwiſe.</p>
+               <p>
+                  <hi>Feb.</hi> 28</p>
+               <p>
+                  <hi>Weymouth</hi> wholly retaken: 180 ſlaine, 38 Ordnance ta<g ref="char:EOLhyphen"/>taken, 40 Ships, After three weekes labor, and conflicts.</p>
+            </div>
+            <div n="March" type="month">
+               <head>March</head>
+               <p>the 12. Sir <hi>Iames Long</hi> taken, and his whole Regiment, foure hun<g ref="char:EOLhyphen"/>dred horſes.</p>
+               <p>Col, <hi>Holborne</hi> takes horſes from <hi>Goring</hi> ſeverall times.</p>
+               <p>Likewiſe Sir <hi>William Waller</hi> at the <hi>Deviſes.</hi>
+               </p>
+               <p>Great actions of Sir <hi>William Brereton</hi> at Cheſter: and Major Generall <hi>Browne</hi> at Oxford.</p>
+            </div>
+            <div n="April" type="month">
+               <head>
+                  <hi>April</hi> 
+               </head>
+               <p>14. Rebellion in Kent quickly ſuppreſſed.</p>
+               <p>Refractary troopers there, and elſewhere, quietly and ſafely reduced to obedience. <hi>A great mercy.</hi>
+               </p>
+               <p>24 <hi>Blechendon Houſe</hi> taken, 70 Horſes 2 or 300 muskets. <hi>Item</hi> the Queenes Colours, 400 Horſes, 200 priſoners 200 ſlaine.</p>
+               <p>26 Col. <hi>Conqueſt</hi> taken, Major <hi>Bamfield,</hi> 3 Captaines.</p>
+               <p>At <hi>Whitney</hi> 3 Colors taken, 120 Horſes, 10 Officers, 27 At <hi>Bampton buſh,</hi> Col. Sir <hi>Henry Vaughan</hi> taken, 2 Liev. Colonels, Major <hi>Lee,</hi> 5 Captaines, 8 Lieut. 8. Enſignes, 20 Ser<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>anes<g ref="char:punc">▪</g>
+               </p>
+            </div>
+            <div n="May" type="month">
+               <head>May</head>
+               <p>11. A Plot againſt the Ile of <hi>Ely,</hi> happily prevented.</p>
+               <pb facs="tcp:158941:3"/>
+               <p> 
+                  <hi>Taunton</hi> in extremity releived, by the flight of the enemy.</p>
+               <p>A wonderfull mercy, to brave people: great wealth ſaved.</p>
+               <p>1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Eveſham</hi> ſtormed, and taken: 120 Horſes, 500 armes. <hi>Gaunt-houſe</hi> taken, and made our Garriſon.</p>
+            </div>
+            <div n="June" type="month">
+               <head>Iune</head>
+               <p>10. <hi>Greenhough-houſe</hi> taken: with all the Ordnance and Am<g ref="char:EOLhyphen"/>munition.</p>
+               <p>
+                  <hi>Hougham-houſe</hi> taken: 60 Horſes: 100 Armes three Cap<g ref="char:EOLhyphen"/>taines.</p>
+               <p>14 The Glorious Victory at <hi>Naisby:</hi> When the Lord magnified his ſervant <hi>Fairfax,</hi> and gave an earneſt of fur<g ref="char:EOLhyphen"/>ther mercies. Armes taken 9000. Horſes 2000: Priſo<g ref="char:EOLhyphen"/>ners 4540. 12 Ordnance, Letters for diſcovery.</p>
+               <p>Sundry Knights, and Colonels, brought in after<g ref="char:EOLhyphen"/>wards.</p>
+               <p>18 <hi>Leiceſter</hi> regained, 14 Ordnance, 30 Colors, 2000. Armes. 500 Horſes. 50 Barrles of Powder.</p>
+               <p>
+                  <hi>A great mercy.</hi> As the loſſe was unexpreſſible.</p>
+               <p>23 <hi>Caſtles</hi> in Shrop-ſhire rendred: <hi>Caus, S<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ke,</hi> and <hi>Shro<g ref="char:EOLhyphen"/>warden.</hi>
+               </p>
+               <p>28 <hi>Carlile</hi> rendred: 20 Ordnance. 1000. Armes.</p>
+               <p>
+                  <hi>Highworth</hi> Garriſon taken: 100 Armes.</p>
+               <p>Horſes in divers parts taken: 100, 60. 50. 45, 60. or 70,</p>
+               <p>
+                  <hi>Iune</hi> 4.</p>
+               <p>
+                  <hi>Taunton</hi> againe mightily releived.</p>
+               <p>9 Victory at <hi>Langpart.</hi> againſt <hi>Goring.</hi>
+               </p>
+               <p>10 <hi>More:</hi> Sundry Colonels taken: 2000 Priſoners: 2000 Horſes: 4000 Armes: Colors of Horſe 35: of Foot 21. two great Ordnance, thirty of their Regiments broken. A wide door of hope hereby opened, for recovering the Weſt.</p>
+               <p>14 <hi>
+                     <gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>rough<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Garriſon taken, and other.</p>
+               <pb facs="tcp:158941:3"/>
+               <p> 21. 22. <hi>Bridg-water</hi> ſtormed, and taken <hi>A Mighty Piece.</hi>
+               </p>
+               <p>
+                  <hi>Fontefract</hi> Caſtle yeelded to the Parliament.</p>
+               <p>
+                  <hi>Froome-Cannon</hi> taken by ſtorme: of the <hi>Scotts.</hi>
+               </p>
+               <p>Three ſmal Garriſons <hi>Garriſons</hi> neer <hi>Bridg-water,</hi> quitted.</p>
+               <p>23 <hi>Raby</hi> Caſtle ſurrendred to the Parliament.</p>
+               <p>
+                  <hi>Chadwick houſe</hi> taken by the Lyme-men,</p>
+               <p>25 <hi>Scarborough-Caſtle</hi> Surrendered to the Parliament.</p>
+               <p>28 <hi>Bathe</hi> Yeelded up to the Parliament 4 Ordnance.</p>
+               <p>Eightie Horſe of the Kings Life-guard taken.</p>
+            </div>
+            <div n="August" type="month">
+               <head>Auguſt.</head>
+               <p>3. Clubmen, Leaders taken at <hi>Shaftsbury.</hi> 51.</p>
+               <p>4 Club-men routed, 2000 Armes taken. 300 men,</p>
+               <p>Uictory over <hi>Gerard.</hi> and <hi>Haverford weſt</hi> taken.</p>
+               <p>
+                  <hi>Yo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ghall</hi> releived. <hi>A great mercy. Sliga</hi> taken, 150 Horſes Sundry <hi>Caſtles.</hi>
+               </p>
+               <p>15 <hi>Sherborne Castle</hi> ſtormed, taken and demoliſhed, In it 16 Ordnance taken, many Officers.</p>
+               <p>28 <hi>Portſhead point</hi> taken, 6 Ordnance 200 Armes.</p>
+               <p>
+                  <hi>Sep. Carew &amp; Mamarby Caſtles</hi> taken. Nunny <hi>Caſtle</hi> taken.</p>
+               <p>11. <hi>Briſtoll</hi> Stormed, and ſurrendred to the Parl. Thinke how great Strength, and Wealth, and what a mercy not ea<g ref="char:EOLhyphen"/>ſily dived into. <hi>O love the Lord &amp;c.</hi>
+               </p>
+               <p>13 <hi>Montros</hi> Routed, and <hi>Scotland</hi> revived. <hi>A Wonder! Let the Kingdomes ſtudie thankefulneſſe.</hi>
+               </p>
+               <p>23 <hi>Devizes Caſtle</hi> taken. 300 armes. Ordnance. And <hi>Lacock houſe.</hi>
+               </p>
+               <p>
+                  <hi>Cardiffe Caſtle</hi> taken. 16 Ordnance. 400 armes.</p>
+               <p>And <hi>Picton Caſtle.</hi>
+               </p>
+               <p>
+                  <hi>Wales</hi> begins now to awake, and grow regular.</p>
+               <p>24 The Caveliers routed at <hi>Rowton heath.</hi> 11 Colonels ta<g ref="char:EOLhyphen"/>ken. with other Officers: 2000-Horſes 1500:-Priſoners.</p>
+               <p>26 <hi>Barkly Caſtle</hi> ſtormed, and ſurrendred to the Parl. And <hi>Farley Caſtle</hi> in Sommerſetſhire.</p>
+               <pb facs="tcp:158941:4"/>
+            </div>
+            <div n="October" type="month">
+               <head>Oct.</head>
+               <p>
+                  <hi>Sandall Caſtle</hi> yeelded to the Parl.</p>
+               <p>6 <hi>Wincheſter Caſtle</hi> yeelded to the Parliament: with great proviſions 7 <hi>Ordnance</hi> 700 Armes.</p>
+               <p>14 <hi>Bazing houſe</hi> taken by ſtorme: with great riches and proviſions The Rendivouz of <hi>popery</hi> and wickedneſſe.</p>
+               <p>
+                  <hi>Chepſtow</hi> and its <hi>Caſtle</hi> taken: 17 <hi>Ordnance:</hi>
+               </p>
+               <p>
+                  <hi>Digby</hi> and <hi>Langdale</hi> rowted at <hi>Sherborn</hi> in <hi>Yorkſhire:</hi>
+               </p>
+               <p>600 Horſes taken: 5 Colonels, 3 L. Colonels, 7 Captaines</p>
+               <p>18 <hi>Lankford houſe</hi> delivered to the Parl.</p>
+               <p>19 <hi>Tiverton</hi> taken by ſtorme, &amp; ſtrange providence: 4 <hi>Ord<g ref="char:EOLhyphen"/>nance</hi> 4 <hi>Majors</hi> 7 <hi>Captaines:</hi> 7 <hi>Lievetenants:</hi>
+               </p>
+               <p>
+                  <hi>Carmarthen</hi> delivered to the Parl with ordnance, Armes, <hi>Digby</hi> and <hi>Langda<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> againe rowted: at <hi>Carlile ſand<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </p>
+               <p>24 <hi>Monmouth,</hi> and its Caſtle delivered to the Parliament 7 <hi>Ordnance:</hi> 300. armes:</p>
+            </div>
+            <div n="November" type="month">
+               <head>Novem.</head>
+               <p>Victory at <hi>Denbigh:</hi> 5 or 600 Horſes taken: 400 priſoners:</p>
+               <p>6 <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Caſtle</hi> delivered to the Parliam<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t: <hi>Welbeck-houſe</hi> flighted,</p>
+               <p>10 <hi>Werton houſe</hi> delivered to the Parl.</p>
+               <p>16. <hi>Beeſton Caſtle</hi> delivered to the Parl.</p>
+            </div>
+            <div n="December" type="month">
+               <head>Dec.</head>
+               <p>7. <hi>Lathom houſe</hi> delivered to the Parl.</p>
+               <p>Taken i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from the enemy an other Garriſon ly<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng Weſt of <hi>Exeter</hi> Called <hi>Callantine houſe</hi> and therin 30 or 40 horſe and as many priſoners.</p>
+               <p>Taken in <hi>Skypton Caſtle</hi> 7 peice of ordnance 300. armes <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> horſe and 4 Barrells of powder.</p>
+            </div>
+            <div type="part">
+               <p>With many other, which time would faile to obſerve and illuſtrate. Oh for a compleat hiſtorie, which would ſet forth Gods glory, and theſe Kingdomes happineſſe.</p>
+               <p>A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d now <hi>England,</hi> what doth the Lord thy God require of thee but to feare tht Lord thy God, to walke in all his wayes, and to loue him, and to ſerve the Lord thy God
+<pb facs="tcp:158941:4"/> with all thy heart, and with all thy ſoule- <hi>Deut.</hi> 10. 12.</p>
+               <p>Meanes to render to the Lord according to all his benefits</p>
+               <p n="1">1 Be a receiver in the maine: by making <hi>Chriſt</hi> ſure to thy ſoule ſoe to get a full and right title to theſe inferior mercyes: And this will ſweeten every benefit, and lift it up high in thy thoughts, ſeing it al comes from ſoe heavenly a ſpring of love; when a ſoule can be thankfull for <hi>Chriſt</hi> firſt, and for other favours in him: when it ſeeth ſalvation wrought, and applyed, and ſoe takes the cup of ſalvation The heart hereby is marveilouſly warmed, &amp; enlarged unto thankfulneſſe and a ſmall mercy elevated, as a pledge of greater. Is it not received in Chriſt, who is the heire of all thinges? Doth it not come ſwimming to us in his bloud? And the want hereof is one cheife cauſe of the great un<g ref="char:EOLhyphen"/>thankfulneſſe we ſee in theſe times: ſome dead and heart<g ref="char:EOLhyphen"/>leſſe, others groſely prophaine, the love of Chriſt would have conſtrained them, and beene ſtronger then death, to doe and ſuffer for him to the vttermoſt: <note place="margin">2 <hi>Cor.</hi> 5. 14</note> and <hi>Cant.</hi> 8. 6. 7.</p>
+               <p n="2">2 In deepe thoughts ſet together Gods greatneſſe and thy vileneſſe. That ſuch a God ſhould doe ſuch thinges for ſoe wretched and unworthy a creature as thou art. Man would not doe ſoe for a ſtranger, eſpecially for an enemie: Only he that is infinitely good, and free in all he doth, one that workes for his owne ſake, becauſe mercy pleaſeth him yea, he works with delight to do his people good, <hi>Pſ.</hi> 35. 27. he hath pleaſure in the proſperitie of his ſervants, Thus ma<g ref="char:EOLhyphen"/>ny became ſoe thankfull, <hi>Luk.</hi> 1. 48. conſidering the Lord to be mighty, and her ſelfe in a low eſtate, a heart ſpiritually humble is ever a thankfuil heart, As mans worth goeth downe ſoe <hi>Gods</hi> goodneſſe goeth up.</p>
+               <p n="3">3 Prize and remember the mercies thou receiveſt, It is not the having of mercies that makes one thankfull. but the
+<pb facs="tcp:158941:5"/> eſteeming &amp; magnifying of them as they are, many mercies grow ſtale by the commonneſſe of them: as the Sun that ſhi<g ref="char:EOLhyphen"/>neth dayly, and the Goſpel which is preached plentifully, victories, and deliverances are now adays ordinary matters therefore not duely regarded, He that ſlights my kindneſſe will ſcarſe thanke mee for it, or he that forgets it, ſoe of God and his people, <hi>Pſal.</hi> 105. 5. <hi>and.</hi> 106. 13.</p>
+               <p n="4">4 Put caſe yee wanted ſuch and ſuch mercyes, which for moſt part are beſt ſeene in the want of the<g ref="char:cmbAbbrStroke">̄</g>: What miſcheife would it have beene, if the enemy had prevailed at <hi>Naiſby,</hi> and other places? If they had entred into ſoe many of our ſtrong places, which were left? If an arbitrary Goverment had beene erected and thereby a perfect ſlavery? If popery had been introduced, and the Goſpel baniſhed? Sit do woe &amp; thinke what a ſad face of things would have now appeared: remember all the way which the Lord thy God hath led thee in theſe heavy times as <hi>Deut.</hi> 8. 2.</p>
+               <p n="5">5 Pray to be able and willing to render, As thou prayeſt for the increaſe of other graces, ſo pray alſo to be acting &amp; exciting this grace of thankfulneſſe, God, if intreated will enlarge thy heart to runne the way of his Commandements.</p>
+               <p n="6">6 To prayer add thine own endeavour, Strive and ſtraine to doe this dutie? as <hi>David.</hi> 103. 1. <hi>Bleſſe the Lord, O my ſoule and all that is within mee, Bleſſe his holy Name Bleſſe the Lord O my ſoule, and forget not all his benefits. Water comes not up without pumping: and wee have dry hearts, there needs an holy vi<g ref="char:EOLhyphen"/>olence to be uſed, as Mat.</hi> 11. 12.</p>
+               <p n="7">7 There needs ſome thought taking: as <hi>David,</hi> VVhat ſhall I render to the Lord for all his benefits towards mee? <hi>Pſal.</hi> 116. 12 <hi>God</hi> ſtudies to doe us good, and waits to be gra<g ref="char:EOLhyphen"/>cious: and that by a counſell from all eternity hath thoughts of peace toward his Church, thoughts of ſupply of delive<g ref="char:EOLhyphen"/>tance, of turning all to good.</p>
+            </div>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
